@@ -1,2 +1,1 @@
-web: gunicorn manage:app
-tor.py
+web: python tor.py
