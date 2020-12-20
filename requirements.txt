@@ -1,0 +1,4 @@
+PyVitualDisplay = 1.3.2
+tbselenium = 0.5.3
+libc6-dev
+xvfb
